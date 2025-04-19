@@ -1,2 +1,3 @@
 # ai
-ai agent
+learn golang coding with gemma
+
